@@ -6,7 +6,7 @@
 
 **Index Html:** [Webpage Html](index.html)
 
-## Overview of UfOs Challenge:
+## Overview of UFOs Challenge:
 The purpose of this analysis is to build new filters to update our table accordingly.
 
 ## Results:
@@ -17,7 +17,8 @@ The purpose of this analysis is to build new filters to update our table accordi
 
 
 ## Summary:
-- 
+- One drawback of this design is that there is no way to see the value options for each filter
+- Two reccomendations for this new design would have some intellisense to reccomend their desired filter option to the user and another would be to tell the user if the option they typed in does not exist
 
 
  
